@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Davies Tobi Alex</h1>
-<h3 align="center">A passionate back-end developer from Lagos Nigeria, with 5 years of professional experience and 4 years working in the payments and financial sector</h3>
+<h3 align="center">A passionate back-end developer from Lagos Nigeria, with 7 years of professional experience and 6 years working in the payments and financial sector</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daviestobialex" alt="daviestobialex" /></a> </p>
 
