@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Davies Tobi Alex</h1>
-<h3 align="center">A passionate back-end developer from Lagos Nigeria, with 7 years of professional experience and 6 years working in the payments and financial sector</h3>
+<h3 align="center">A passionate back-end developer from Lagos Nigeria, with 5 years of professional experience and 4 years working in the payments and financial sector</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daviestobialex" alt="daviestobialex" /></a> </p>
 
@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tobi-alex-davies-5403306b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tobi-alex-davies-5403306b/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/daviestobialex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="daviestobialex" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/6760934" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6760934" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
