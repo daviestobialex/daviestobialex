@@ -11,6 +11,8 @@
 
 - 📜 I’m am a certified [PSM 1 Scrum Master](https://www.scrum.org/user/995506)
 
+- 🏄🏼 I also have a [gitlab](https://gitlab.com/daviestobialex) account
+
 - 👨‍💻 All of my projects are available at [https://gitlab.com/daviestobialex](https://gitlab.com/daviestobialex)
 
 - 💬 Ask me about **Java, Spring, Software Design and Architecture, CI/CD,**
