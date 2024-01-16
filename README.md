@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [fxbud](https://fxbud.com)
 
-- 🌱 I’m currently learning **doing my master in financial technology at the University of Bradford.**
+- 🌱 I have a **master degree in financial technology at the University of Bradford.**
 
 - 👯 I’m currently contributing on [Apache Fineract](https://github.com/apache/fineract)
 
